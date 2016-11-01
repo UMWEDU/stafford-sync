@@ -1,0 +1,31 @@
+---
+ID: 51
+post_title: Stafford Campus FAQ
+author: Admin
+post_date: 2013-11-26 12:13:23
+post_excerpt: ""
+layout: page
+permalink: >
+  https://www.umw.edu/stafford/stafford-campus-faq/
+published: true
+---
+<h2>Where is the UMW Stafford Campus located?</h2>
+The official campus address is 121 University Boulevard, Fredericksburg, VA 22406 and is located at the intersection of Warrenton Road/US 17 North and Village Parkway, just three miles west of Warrenton Road/US 17 North and I-95.
+<h2>What's in each of the two buildings?</h2>
+The South Building - 121 University Boulevard - is on your immediate right as you enter the parking lot and look for the US and Virginia flags flying in front of the building. The South Building houses several administrative offices including admissions, advising, registrar, student accounts, veterans' services, along with the Stafford Campus Library, classrooms and computer labs, and the Center for Lifelong Learning that offers ElderStudy programs and courses.
+
+The Gates Hudson Building - 125 University Boulevard - is at the far end of the parking lot and houses University Hall, faculty and staff offices, including the IT Specialist's office, and classrooms and computer labs.
+<h2>What's the Stafford Campus phone number?</h2>
+The main number is 540-286-8000. In case of emergency, dial 911 for the Stafford County Sheriff or you can reach UMW Campus Police by dialing 540-654-1025.
+<h2>When is the campus open and when does it close?</h2>
+Administrative offices are open Monday through Friday from 8 am to 5 pm and the buildings officially close at 10 pm, Monday through Friday. While administrative offices close at 5 pm, classes are conducted during the day and evening, typically ending between 8:45 and 9:30 pm - and there also are some Saturday classes.
+
+The Stafford Campus Library, during the fall and spring semesters, is open Monday through Thursday from 12 pm to 9 pm, Friday from 12 pm to 5 pm, and Saturday from 9 am to 3 pm. You may want to check the <a href="http://libraries.umw.edu/?stafford">Library's website</a> for hours during the summer, breaks, and winter recess.
+<h2>Where can I park?</h2>
+There's ample parking in the lot that is in front of the campus' two buildings. While a UMW parking sticker is not needed by students or guests, there are designated handicapped, faculty/staff, and alternative fuel vehicle spaces. The lot is well lit and there are several blue light phones that will connect you with the Stafford County Sheriff's Department in case of an emergency.
+<h2>Is there on-campus food service?</h2>
+While there isn't an on-campus cafeteria, both building have beverage and snack vending machines that take coin, cash, and credit cards - and there are numerous nearby full-service and fast food restaurants, and grocery and convenience stores.
+<h2>Is there an on-campus exercise facility?</h2>
+While there isn't an on-campus fitness facility there is one in the nearby Celebrate Virginia complex. For individuals with a military ID, you can access the MCB Quantico fitness center.
+<h2>How do I find out if the campus is closed due to inclement weather or in case of an emergency?</h2>
+The  <a href="http://www.umw.edu">UMW website</a> posts all emergency/inclement weather closings. You can also call the UMW Information Hotline at 540-654-2424, as well as tune to local and regional TV and radio stations.
