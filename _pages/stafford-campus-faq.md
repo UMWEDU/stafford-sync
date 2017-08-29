@@ -1,13 +1,13 @@
 ---
 ID: 51
 post_title: Stafford Campus FAQ
-author: Admin
-post_date: 2013-11-26 12:13:23
+author: UMW
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/stafford/stafford-campus-faq/
 published: true
+post_date: 2013-11-26 12:13:23
 ---
 <h2>Where is the UMW Stafford Campus located?</h2>
 The official campus address is 121 University Boulevard, Fredericksburg, VA 22406 and is located at the intersection of Warrenton Road/US 17 North and Village Parkway, just three miles west of Warrenton Road/US 17 North and I-95.
@@ -22,7 +22,7 @@ The main number is 540-286-8000. In case of emergency, dial 911 for the Stafford
 <h2>When is the campus open and when does it close?</h2>
 Administrative offices are open Monday through Friday from 8 am to 5 pm and the buildings officially close at 10 pm, Monday through Friday. While administrative offices close at 5 pm, classes are conducted during the day and evening, typically ending between 8:45 and 9:30 pm - and there also are some Saturday classes.
 
-The Stafford Campus Library, during the fall and spring semesters, is open Monday through Thursday from 12 pm to 9 pm, Friday from 12 pm to 5 pm, and Saturday from 9 am to 3 pm. You may want to check the <a href="http://libraries.umw.edu/?stafford">Library's website</a> for hours during the summer, breaks, and winter recess.
+The Stafford Campus Library, during the fall and spring semesters, is open Monday through Thursday from 12 pm to 9 pm and Friday from 12 pm to 5 pm. You may want to check the <a href="http://libraries.umw.edu/?stafford">Library's website</a> for hours during the summer, breaks, and winter recess.
 <h2>Where can I park?</h2>
 There's ample parking in the lot that is in front of the campus' two buildings. While a UMW parking sticker is not needed by students or guests, there are designated handicapped, faculty/staff, and alternative fuel vehicle spaces. The lot is well lit and there are several blue light phones that will connect you with the Stafford County Sheriff's Department in case of an emergency.
 <h2>Is there on-campus food service?</h2>
