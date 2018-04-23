@@ -1,12 +1,12 @@
 ---
 ID: 31
 post_title: Contact Us
-author: Admin
-post_date: 2013-11-26 12:13:22
+author: UMW
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/stafford/contact-us/
+permalink: http://www.umw.edu/stafford/contact-us/
 published: true
+post_date: 2013-11-26 12:13:22
 ---
 <table>
 <tbody>
@@ -49,14 +49,14 @@ South 152</td>
 </tr>
 <tr>
 <td>Master of Business Administration</td>
-<td>Kyle Allwine</td>
+<td>David Harger</td>
 <td>540-654-2000</td>
 <td>Stafford
 South 155</td>
 </tr>
 <tr>
 <td>Master in Geospatial Analysis</td>
-<td>Kyle Allwine</td>
+<td>David Harger</td>
 <td>540-654-2000</td>
 <td>Stafford
 South 155</td>
@@ -118,8 +118,8 @@ GH Building B229</td>
 </tr>
 <tr>
 <td>Administrative Assistant</td>
-<td>Melissa Hall</td>
-<td>540-286-8084</td>
+<td>Anjanie Skornia</td>
+<td>540-286-8073</td>
 <td>Stafford
 GH Building B228</td>
 </tr>
@@ -127,27 +127,23 @@ GH Building B228</td>
 <th colspan="4">College of Business</th>
 </tr>
 <tr>
-<td>Dean
+<td>Acting Dean
 
 &nbsp;
 
-Associate Dean</td>
-<td>Dr. Lynne Richardson
+&nbsp;</td>
+<td>Ken Machande
 
 &nbsp;
 
-Ken Machande</td>
-<td>540-654-1455
+&nbsp;</td>
+<td>540-654-1457
 
 &nbsp;
 
-540-654-1457</td>
+&nbsp;</td>
 <td>Fredericksburg
-Woodard 225
-
-&nbsp;
-
-Fredericksburg Woodard 213</td>
+Woodard 213&nbsp;</td>
 </tr>
 <tr>
 <td>Office Manager</td>
@@ -167,9 +163,9 @@ Woodard 233</td>
 <th colspan="4">College of Education</th>
 </tr>
 <tr>
-<td>Interim Dean</td>
-<td>Dr. Nina Mikhalevsky</td>
-<td>540-654-1295</td>
+<td>Dean</td>
+<td>Dr. Peter Kelly</td>
+<td>540-654-1464</td>
 <td>Stafford
 GH Building B204</td>
 </tr>
@@ -199,7 +195,7 @@ South 147</td>
 </tr>
 <tr>
 <td>AV Technician</td>
-<td>Thomas Mountcasel</td>
+<td>Kathryn Moncure</td>
 <td>540-286-8015</td>
 <td>Stafford
 South 146</td>
@@ -211,7 +207,7 @@ South 146</td>
 <td></td>
 </tr>
 <tr>
-<th colspan="4">Registrar’s Office</th>
+<th colspan="4">Additional Office Information</th>
 </tr>
 <tr>
 <td>Senior Associate Registrar</td>
@@ -249,10 +245,14 @@ South 2<sup>nd</sup> Floor</td>
 </tr>
 <tr>
 <td>Student Accounts</td>
-<td></td>
-<td>540-654-1250</td>
+<td> Ryan Snellings</td>
+<td>540-654-1289 (Fredericksburg)
+
+540-286-8058 (Stafford)</td>
 <td>Fredericksburg
-Lee Hall, 2nd Floor</td>
+Lee Hall, 2nd FloorStafford
+South 147
+M-Th 2:30-6:30</td>
 </tr>
 <tr>
 <td>In Case of Emergency</td>
