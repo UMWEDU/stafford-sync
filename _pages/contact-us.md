@@ -42,10 +42,10 @@ Lee Hall 425</td>
 </tr>
 <tr>
 <td>Graduate Education Programs</td>
-<td>Cris Hairston</td>
-<td>540-654-2000</td>
+<td>Christy Pack</td>
+<td>540-654-8030</td>
 <td>Stafford
-South 152</td>
+South 156</td>
 </tr>
 <tr>
 <td>Master of Business Administration</td>
@@ -80,8 +80,8 @@ GH Building B223</td>
 </tr>
 <tr>
 <td>BSN Completion Program</td>
-<td>Dr. Pamela McCullough</td>
-<td>540-286-8073</td>
+<td>Dr. Janet Atarthi-Dugan</td>
+<td>540-286-8024</td>
 <td>Stafford
 GH Building B229</td>
 </tr>
@@ -111,8 +111,8 @@ Monroe Hall 321</td>
 </tr>
 <tr>
 <td>Director</td>
-<td>Dr. Pamela McCullough</td>
-<td>540-286-8073</td>
+<td>Dr. Janet Atarthi-Dugan</td>
+<td>540-286-8024</td>
 <td>Stafford
 GH Building B229</td>
 </tr>
@@ -121,7 +121,7 @@ GH Building B229</td>
 <td>Anjanie Skornia</td>
 <td>540-286-8073</td>
 <td>Stafford
-GH Building B228</td>
+GH Building B225</td>
 </tr>
 <tr>
 <th colspan="4">College of Business</th>
@@ -143,7 +143,7 @@ GH Building B228</td>
 
 &nbsp;</td>
 <td>Fredericksburg
-Woodard 213&nbsp;</td>
+Woodard 213</td>
 </tr>
 <tr>
 <td>Office Manager</td>
@@ -194,8 +194,8 @@ GH Building B203</td>
 South 147</td>
 </tr>
 <tr>
-<td>AV Technician</td>
-<td>Kathryn Moncure</td>
+<td></td>
+<td>On-site AV Technician</td>
 <td>540-286-8015</td>
 <td>Stafford
 South 146</td>
@@ -245,14 +245,9 @@ South 2<sup>nd</sup> Floor</td>
 </tr>
 <tr>
 <td>Student Accounts</td>
-<td> Ryan Snellings</td>
-<td>540-654-1289 (Fredericksburg)
-
-540-286-8058 (Stafford)</td>
-<td>Fredericksburg
-Lee Hall, 2nd FloorStafford
-South 147
-M-Th 2:30-6:30</td>
+<td>Fredericksburg Campus</td>
+<td>540-654-1289</td>
+<td>Lee Hall, 2nd Floor</td>
 </tr>
 <tr>
 <td>In Case of Emergency</td>
