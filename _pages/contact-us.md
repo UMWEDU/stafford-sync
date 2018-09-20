@@ -182,6 +182,9 @@ GH Building B255</td>
 <td>540-286-8097</td>
 <td>Stafford
 GH Building B203</td>
+<th colspan="4">Continuing &amp; Professional Studies</th>
+</tr>
+<tr>
 </tr>
 <tr>
 <th colspan="4">Office of Events and Conferencing</th>
