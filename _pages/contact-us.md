@@ -245,23 +245,22 @@ South 2<sup>nd</sup> Floor</td>
 <td>South Lobby</td>
 </tr>
 <tr>
-<td>Student Accounts</td>
-<td>Fredericksburg Campus</td>
-<td>540-654-1289</td>
-<td>Lee Hall, 2nd Floor</td>
+<td>Assistant Director, Continuing Education &amp; Professional Studies</td>
+<td>Jennifer Cooper</td>
+<td>540-286-8098</td>
+<td>Stafford South 131</td>
 </tr>
 <tr>
-<td>In Case of Emergency</td>
+<td>Executive Director, Continuing Education &amp; Professional Studies</td>
+<td>Kimberly Young</td>
+<td> 540-286-8076</td>
+<td>Stafford South 124</td>
+</tr>
+<tr>
+<td>In case of Emergency</td>
 <td>Stafford Sheriff/Fire-Rescue</td>
 <td>911</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>UMW Emergency Communications</td>
-<td>540-654-4444</td>
-<td>Fredericksburg
-Brent Hall</td>
+<td>Fredericksburg Campus Public Safety - Call 540-654-1025 for Non-Emergencies. Located at Brent House on the Fredericksburg Campus.</td>
 </tr>
 </tbody>
 </table>
