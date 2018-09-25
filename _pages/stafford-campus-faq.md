@@ -20,14 +20,12 @@ The Gates Hudson Building - 125 University Boulevard - is at the far end of the
 <h2>What's the Stafford Campus phone number?</h2>
 The main number is 540-286-8000. In case of emergency, dial 911 for the Stafford County Sheriff or you can reach UMW Campus Police by dialing 540-654-1025.
 <h2>When is the campus open and when does it close?</h2>
-Administrative offices are open Monday through Friday from 8 am to 5 pm and the buildings officially close at 10 pm, Monday through Friday. While administrative offices close at 5 pm, classes are conducted during the day and evening, typically ending between 8:45 and 9:30 pm - and there also are some Saturday classes.
+Administrative offices are open Monday through Friday from 8 am to 5 pm.  Both buildings officially close at 10 pm Monday through Thursday and at 5 pm on Fridays.  Classes are conducted during the day and evening, typically ending between 8:45 and 9:30 pm (Monday-Thursday).
 
 The Stafford Campus Library, during the fall and spring semesters, is open Monday through Thursday from 12 pm to 9 pm and Friday from 12 pm to 5 pm. You may want to check the <a href="http://libraries.umw.edu/?stafford">Library's website</a> for hours during the summer, breaks, and winter recess.
 <h2>Where can I park?</h2>
 There's ample parking in the lot that is in front of the campus' two buildings. While a UMW parking sticker is not needed by students or guests, there are designated handicapped, faculty/staff, and alternative fuel vehicle spaces. The lot is well lit and there are several blue light phones that will connect you with the Stafford County Sheriff's Department in case of an emergency.
 <h2>Is there on-campus food service?</h2>
 While there isn't an on-campus cafeteria, both building have beverage and snack vending machines that take coin, cash, and credit cards - and there are numerous nearby full-service and fast food restaurants, and grocery and convenience stores.
-<h2>Is there an on-campus exercise facility?</h2>
-While there isn't an on-campus fitness facility there is one in the nearby Celebrate Virginia complex. For individuals with a military ID, you can access the MCB Quantico fitness center.
 <h2>How do I find out if the campus is closed due to inclement weather or in case of an emergency?</h2>
 The  <a href="http://www.umw.edu">UMW website</a> posts all emergency/inclement weather closings. You can also call the UMW Information Hotline at 540-654-2424, as well as tune to local and regional TV and radio stations.
