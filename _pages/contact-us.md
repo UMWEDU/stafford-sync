@@ -50,14 +50,14 @@ South 156</td>
 <tr>
 <td>Master of Business Administration</td>
 <td>David Harger</td>
-<td>540-654-2000</td>
+<td>540-286-8088</td>
 <td>Stafford
 South 155</td>
 </tr>
 <tr>
 <td>Master in Geospatial Analysis</td>
 <td>David Harger</td>
-<td>540-654-2000</td>
+<td>540-286-8088</td>
 <td>Stafford
 South 155</td>
 </tr>
@@ -127,23 +127,23 @@ GH Building B225</td>
 <th colspan="4">College of Business</th>
 </tr>
 <tr>
-<td>Acting Dean
+<td>Dean
 
 &nbsp;
 
 &nbsp;</td>
-<td>Ken Machande
+<td>Lynne Richardson
 
 &nbsp;
 
 &nbsp;</td>
-<td>540-654-1457
+<td>540-654-1455
 
 &nbsp;
 
 &nbsp;</td>
 <td>Fredericksburg
-Woodard 213</td>
+Woodard 225</td>
 </tr>
 <tr>
 <td>Office Manager</td>
@@ -153,9 +153,9 @@ Woodard 213</td>
 Woodard 225</td>
 </tr>
 <tr>
-<td>Student Support &amp; Outreach</td>
-<td>Andrea Cordray</td>
-<td>540-654-1242</td>
+<td>Outreach Coordinator and Career Coach</td>
+<td>Kelsey Whitacre</td>
+<td>540-654-1223</td>
 <td>Fredericksburg
 Woodard 233</td>
 </tr>
