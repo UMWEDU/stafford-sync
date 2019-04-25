@@ -87,7 +87,7 @@ GH Building B229</td>
 </tr>
 <tr>
 <td>Graduate Education Programs</td>
-<td> April Brecht</td>
+<td>April Brecht</td>
 <td>540-286-8032</td>
 <td>Stafford
 South 153</td>
@@ -127,21 +127,9 @@ GH Building B225</td>
 <th colspan="4">College of Business</th>
 </tr>
 <tr>
-<td>Dean
-
-&nbsp;
-
-&nbsp;</td>
-<td>Lynne Richardson
-
-&nbsp;
-
-&nbsp;</td>
-<td>540-654-1455
-
-&nbsp;
-
-&nbsp;</td>
+<td>Dean</td>
+<td>Lynne Richardson</td>
+<td>540-654-1455</td>
 <td>Fredericksburg
 Woodard 225</td>
 </tr>
