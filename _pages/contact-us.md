@@ -66,7 +66,7 @@ South 155</td>
 </tr>
 <tr>
 <td>BLS, Arts and Sciences</td>
-<td>Jessica McGraw</td>
+<td>Susanne Tomillon</td>
 <td>540-654-2050</td>
 <td>Fredericksburg
 Lee Hall 437</td>
@@ -166,7 +166,7 @@ GH Building B255</td>
 </tr>
 <tr>
 <td>Administrative Coordinator</td>
-<td>Terry Luttrell</td>
+<td>Meredith O' Connell</td>
 <td>540-286-8097</td>
 <td>Stafford
 GH Building B203</td>
@@ -177,10 +177,10 @@ GH Building B203</td>
 </tr>
 <tr>
 <td>Events Manager</td>
-<td>Susan Lafayette</td>
-<td>540-286-8012</td>
+<td>Jennifer Cooper</td>
+<td>540-286-8098</td>
 <td>Stafford
-South 147</td>
+South 131</td>
 </tr>
 <tr>
 <td></td>
@@ -214,7 +214,7 @@ South 139</td>
 </tr>
 <tr>
 <td>Registration Assistant/VA Liaison</td>
-<td>Robert Louzek</td>
+<td>Ryan Hastings</td>
 <td>540-286-8075</td>
 <td>Stafford
 South 140</td>
