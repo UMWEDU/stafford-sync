@@ -1,6 +1,6 @@
 ---
 ID: 1018
-post_title: Reserving a room at Stafford
+post_title: Reserving a Room at Stafford
 author: pkandel
 post_excerpt: ""
 layout: page
