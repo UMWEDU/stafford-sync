@@ -5,7 +5,7 @@ author: UMW
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/stafford/stafford-campus-faq/
+  http://umwstaffordsan.wpengine.com/stafford-campus-faq/
 published: true
 post_date: 2013-11-26 12:13:23
 ---
