@@ -5,7 +5,7 @@ author: pkandel
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/stafford/reserving-a-room-at-stafford/
+  http://umwstaffordsan.wpengine.com/reserving-a-room-at-stafford/
 published: true
 post_date: 2019-10-21 18:41:50
 ---
