@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2020-03-25 22:46:48
 ---
-<p style="text-align: center;"><a href="https://www.google.com/maps/place/University+Hall,+121+University+Blvd,+Fredericksburg,+VA+22406/@38.3739024,-77.4957003,11z/data=!4m5!3m4!1s0x89b6eb1a48998ae1:0xaf08a3168308bde4!8m2!3d38.3704874!4d-77.5315776">Click here for Google Map View </a></p>
+<iframe style="border: 0;" tabindex="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d200187.07280344484!2d-77.4957003!3d38.3739024!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6eb1a48998ae1%3A0xaf08a3168308bde4!2sUniversity%20Hall%2C%20121%20University%20Blvd%2C%20Fredericksburg%2C%20VA%2022406!5e0!3m2!1sen!2sus!4v1586289410492!5m2!1sen!2sus" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen" aria-hidden="false"></iframe>
 Stafford Campus location offers the perfect opportunity for easy transit, just 15 minutes away from University of Mary Washington’s main campus and 1 hour outside of D.C. It is only 7 minutes off of Interstate 95 in an idyllic but metropolitan area, featuring 15 different hotels and various hotspot restaurants and shops.
 <ul>
  	<li>Address: <strong>121 University Boulevard, Fredericksburg, VA 22406</strong></li>
