@@ -50,7 +50,7 @@ Nearby Airports
 <ul>
  	<li><a href="https://www.google.com/maps/dir/38.372557,-77.5306914/Ronald+Reagan+Washington+National+Airport+(DCA),+Arlington,+VA+22202/@38.3717345,-77.5319916,18.83z/data=!4m14!4m13!1m5!3m4!1m2!1d-77.5306736!2d38.3719712!3s0x89b6eb1a7c8e9dd5:0x5324a0c8f3f67c7f!1m5!1m1!1s0x89b7b731402fe095:0x4168af016d076bad!2m2!1d-77.0402315!2d38.851242!3e0">Ronald Reagan Washington National Airport</a>, 1 hour away</li>
  	<li><a href="https://www.google.com/maps/dir/38.372557,-77.5306914/Dulles+International+Airport,+1+Saarinen+Cir,+Dulles,+VA+20166/@38.6513941,-77.770564,10z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x89b64740174eb057:0x8e01cb201080601d!2m2!1d-77.4565388!2d38.9531162!3e0">Dulles International Airport</a>, 1 hour away</li>
- 	<li><b>Richmond Airport, 1 hour away</b></li>
+ 	<li><a href="https://www.google.com/maps/dir/University+Hall,+121+University+Blvd,+Fredericksburg,+VA+22406/richmond+airport/@37.9387624,-77.987127,9z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x89b6eb1a48998ae1:0xaf08a3168308bde4!2m2!1d-77.5315776!2d38.3704874!1m5!1m1!1s0x89b11bacb2c3dce9:0x5981fd4042f006d0!2m2!1d-77.3208112!2d37.5065795">Richmond Airport</a><a href="https://www.google.com/maps/dir/University+Hall,+121+University+Blvd,+Fredericksburg,+VA+22406/richmond+airport/@37.9387624,-77.987127,9z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x89b6eb1a48998ae1:0xaf08a3168308bde4!2m2!1d-77.5315776!2d38.3704874!1m5!1m1!1s0x89b11bacb2c3dce9:0x5981fd4042f006d0!2m2!1d-77.3208112!2d37.5065795">,</a> 1 hour away</li>
 </ul>
 Transportation
 <ul>
