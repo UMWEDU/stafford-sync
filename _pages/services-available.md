@@ -20,7 +20,7 @@ post_date: 2020-04-30 19:55:06
 </ul>
 <h3>Catering Available</h3>
 <ul>
- 	<li>Cash, Coin, and Credit Card enabled Vending Machines(South Building only)</li>
+ 	<li>Cash, Coin, and Credit Card enabled Vending Machines (South Building only)</li>
  	<li>Exclusive Contract with Sodexo</li>
 </ul>
 <h3>Parking Available</h3>
