@@ -17,7 +17,7 @@ post_date: 2020-03-23 17:51:15
 
 [one-half]
 
-[caption id="attachment_869" align="alignnone" width="300"]<img class="wp-image-869 size-medium" src="http://umwstaffordsan.wpengine.com/wp-content/uploads/2015/08/NS-UMW-Stafford-2-XL-300x191.jpg" alt="" width="300" height="191" /> University Hall with the Atrium Stafford Campus[/caption]
+[caption id="attachment_869" align="alignnone" width="300"]<img class="wp-image-869 size-medium" src="http://umwstaffordsan.wpengine.com/wp-content/uploads/2015/08/NS-UMW-Stafford-2-XL-300x191.jpg" alt="" width="300" height="200" /> University Hall with the Atrium Stafford Campus[/caption]
 
 [/one-half]
 
