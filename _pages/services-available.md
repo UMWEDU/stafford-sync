@@ -23,6 +23,11 @@ post_date: 2020-04-30 19:55:06
  	<li>Cash, Coin, and Credit Card enabled Vending Machines</li>
  	<li>Exclusive Contract with Sodexo</li>
 </ul>
+<h3>Parking Available</h3>
+<ul>
+ 	<li>No parking pass needed</li>
+ 	<li>Parking lot able to compensate for 306, spillover parking available</li>
+</ul>
 <h3>Inclement Weather Cancellations and Alerts</h3>
 <ul>
  	<li><a href="https://umwva.alerteagle.com/">UMW Weather Site </a></li>
