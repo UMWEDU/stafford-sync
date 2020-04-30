@@ -16,11 +16,11 @@ post_date: 2020-04-30 19:55:06
  	<li>Projector and Screen</li>
  	<li>Computer in each room, Computer Lab available</li>
  	<li>Available option of Confidence Monitor</li>
- 	<li>On sight AV Technician</li>
+ 	<li>On site AV Technician</li>
 </ul>
 <h3>Catering Available</h3>
 <ul>
- 	<li>Cash, Coin, and Credit Card enabled Vending Machines</li>
+ 	<li>Cash, Coin, and Credit Card enabled Vending Machines(South Building only)</li>
  	<li>Exclusive Contract with Sodexo</li>
 </ul>
 <h3>Parking Available</h3>
