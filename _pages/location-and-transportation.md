@@ -21,6 +21,7 @@ Stafford Campus location offers the perfect opportunity for easy transit, just 1
 
 [one-half-first]
 <h3><strong>The South Building</strong></h3>
+&nbsp;
 121 University Boulevard – is on your immediate right as you enter the parking lot and look for the US and Virginia flags flying in front of the building.
 [/one-half-first]
 
