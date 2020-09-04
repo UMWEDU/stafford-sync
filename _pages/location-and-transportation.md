@@ -19,10 +19,14 @@ Stafford Campus location offers the perfect opportunity for easy transit, just 1
 </ul>
 &nbsp;
 
-[one-half-first]<b>The South Building</b> – 121 University Boulevard – is on your immediate right as you enter the parking lot and look for the US and Virginia flags flying in front of the building.
+[one-half-first]
+<h3>The South Building</h3>
+– 121 University Boulevard – is on your immediate right as you enter the parking lot and look for the US and Virginia flags flying in front of the building.
 [/one-half-first]
 
-[one-half]<b>The Gates Hudson Building (Stafford North Building)</b> – 125 University Boulevard – is at the far end of the parking lot and houses University Hall, faculty and staff offices, and several classrooms on the second floor.[/one-half]
+[one-half]
+<h3>The Gates Hudson Building (Stafford North Building)</h3>
+– 125 University Boulevard – is at the far end of the parking lot and houses University Hall, faculty and staff offices, and several classrooms on the second floor.[/one-half]
 
 &nbsp;
 
