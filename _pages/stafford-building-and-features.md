@@ -32,7 +32,7 @@ The striking North Building Atrium and 2,700 square foot divisible University Ha
  	<li>The Center for Lifelong learning that offers Elder Study programs and courses</li>
 </ul>
 Elevator Access and Accessible seating is available in both buildings for those with limited mobility or use of a wheelchair. <strong>Catering Available</strong> in both buildings.
-<h2 style="text-align: center;">We Go Green!</h2>
+<h2 style="text-align: left;">We Go Green!</h2>
 Both Buildings have been recently certified as<strong> Virginia Green Facilities by the Department of Environmental Quality</strong>. The North Building features low-maintenance landscaping, designated alternative fuel vehicle parking spaces, and several other environmentally-friendly features designed to meet LEED Certification requirements.
 <h2><strong>Stafford Campus hours</strong></h2>
 <ul>
