@@ -21,7 +21,6 @@ Stafford Campus location offers the perfect opportunity for easy transit, just 1
 
 [one-half-first]
 <h3><strong>The South Building</strong></h3>
-&nbsp;
 121 University Boulevard – is on your immediate right as you enter the parking lot and look for the US and Virginia flags flying in front of the building.
 [/one-half-first]
 
@@ -33,7 +32,7 @@ Stafford Campus location offers the perfect opportunity for easy transit, just 1
 
 [one-half-first]<img class="alignnone size-medium wp-image-221" src="http://umwstaffordsan.wpengine.com/wp-content/uploads/2013/11/UMW-Stafford-South-Twin-Flags-300x225.jpg" alt="Stafford campus, South Building of the University of Mary Washington" width="300" height="225" />[/one-half-first][one-half]
 
-<img class="size-medium wp-image-860" src="http://umwstaffordsan.wpengine.com/wp-content/uploads/2015/08/stafford52-300x203.jpg" alt="Stafford campus, North Building of the University of Mary Washington" width="300" height="225" />
+<img class=" wp-image-860" src="http://umwstaffordsan.wpengine.com/wp-content/uploads/2015/08/stafford52-300x203.jpg" alt="Stafford campus, North Building of the University of Mary Washington" width="330" height="223" />
 
 [/one-half]
 
