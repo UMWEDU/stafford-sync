@@ -11,7 +11,7 @@ post_date: 2020-03-19 20:56:58
 ---
 <strong>The Gates Hudson Building (Stafford North Building)</strong>
 
-<img class="size-medium wp-image-860" src="http://umwstaffordsan.wpengine.com/wp-content/uploads/2015/08/stafford52-300x203.jpg" alt="North Building" width="300" height="203" />
+<img class=" wp-image-860" src="http://umwstaffordsan.wpengine.com/wp-content/uploads/2015/08/stafford52-300x203.jpg" alt="North Building" width="440" height="298" />
 
 The striking North Building Atrium and 2,700 square foot divisible University Hall includes:
 <ul>
