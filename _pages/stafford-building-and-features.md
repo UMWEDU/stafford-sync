@@ -11,7 +11,7 @@ post_date: 2020-03-19 20:56:58
 ---
 <strong>The Gates Hudson Building (Stafford North Building)</strong>
 
-<img class=" wp-image-860" src="http://umwstaffordsan.wpengine.com/wp-content/uploads/2015/08/stafford52-300x203.jpg" alt="North Building" width="440" height="298" />
+<img class=" wp-image-860" src="http://umwstaffordsan.wpengine.com/wp-content/uploads/2015/08/stafford52-300x203.jpg" alt="North Building" width="560" height="379" />
 
 The striking North Building Atrium and 2,700 square foot divisible University Hall includes:
 <ul>
@@ -23,7 +23,7 @@ The striking North Building Atrium and 2,700 square foot divisible University Ha
 </ul>
 <strong>The South (Stafford) Building</strong>
 
-<img class="alignnone size-medium wp-image-221" src="http://umwstaffordsan.wpengine.com/wp-content/uploads/2013/11/UMW-Stafford-South-Twin-Flags-300x225.jpg" alt="South Building" width="300" height="225" />
+<img class="alignnone  wp-image-221" src="http://umwstaffordsan.wpengine.com/wp-content/uploads/2013/11/UMW-Stafford-South-Twin-Flags-300x225.jpg" alt="South Building" width="553" height="415" />
 <ul>
  	<li>Single, Double, and Tiered Classrooms</li>
  	<li>Executive Conference Rooms</li>
