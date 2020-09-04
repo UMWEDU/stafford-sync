@@ -23,7 +23,7 @@ The striking North Building Atrium and 2,700 square foot divisible University Ha
 </ul>
 <strong>The South (Stafford) Building</strong>
 
-<img class="alignnone  wp-image-221" src="http://umwstaffordsan.wpengine.com/wp-content/uploads/2013/11/UMW-Stafford-South-Twin-Flags-300x225.jpg" alt="South Building" width="553" height="415" />
+<img class="alignnone wp-image-221" src="http://umwstaffordsan.wpengine.com/wp-content/uploads/2013/11/UMW-Stafford-South-Twin-Flags-300x225.jpg" alt="South Building" width="553" height="415" />
 <ul>
  	<li>Single, Double, and Tiered Classrooms</li>
  	<li>Executive Conference Rooms</li>
