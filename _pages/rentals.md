@@ -8,10 +8,10 @@ permalink: http://www.umw.edu/stafford/rentals/
 published: true
 post_date: 2020-03-23 17:51:15
 ---
-test
+<strong><span style="color: #ff0000">Due to COVID-19 restrictions, we are currently not accepting reservations for facility rentals at the Stafford Campus.</span></strong>
 [one-half-first]
 
-[caption id="attachment_860" align="alignnone" width="300"]<img class="size-medium wp-image-860" src="http://www.umw.edu/staffordwp-content/uploads/sites/28/2015/08/stafford52-300x203.jpg" alt="North Building" width="300" height="203" /> Gates Hudson, Stafford Campus [/caption]
+[caption id="attachment_860" align="alignnone" width="300"]<img class="size-medium wp-image-860" src="http://www.umw.edu/staffordwp-content/uploads/sites/28/2015/08/stafford52-300x203.jpg" alt="North Building" width="300" height="203" /> Gates Hudson, Stafford Campus[/caption]
 
 [/one-half-first]
 
